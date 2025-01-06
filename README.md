@@ -20,7 +20,7 @@ def func(value):
         case 1:
             return 'One'
         case _:
-            return 'Default'
+            return 'Default'  # <-- ignoring exceptional case
 ```
 
 However, for the non-matching cases we would better raise an error,
