@@ -42,6 +42,11 @@ Then in the client code we would handle this error appropriately,
 instead of sweeping the issue under the rug.
 
 
+## List of warnings
+
+**SPM001**: not raising when matching default value.
+
+
 ## Installation (IN PROGRESS)
 
 Install via `pip` with:
