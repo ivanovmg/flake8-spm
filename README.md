@@ -26,8 +26,8 @@ def func(value):
 However, for the non-matching cases we would better raise an error,
 to follow fail-fast methodology.
 Indeed, if we could not find a mathing pattern,
-then it is an unexpected event and we need to raise an error,
-as shown below.
+then it is an unexpected event,
+and we need to raise an error, as shown below.
 
 ``` python
 def func(value):
