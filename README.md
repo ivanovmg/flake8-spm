@@ -1,6 +1,8 @@
 # flake8-spm
 Flake8 plugin for finding issues with structural pattern matching
 
+**NOTE**: this plugin is under development. Coming up soon!
+
 
 ## Motivation
 
