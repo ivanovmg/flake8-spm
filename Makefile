@@ -5,3 +5,7 @@ lint:
 .PHONY: format
 format:
 	ruff format .
+
+.PHONY: test
+test:
+	pytest tests
