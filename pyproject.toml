@@ -30,3 +30,9 @@ Issues = "https://github.com/ivanovmg/flake8-spm/issues"
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 79
+
+[tool.ruff.format]
+quote-style = "single"
